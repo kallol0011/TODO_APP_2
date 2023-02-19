@@ -1,0 +1,10 @@
+
+get => http://localhost:4500/todos
+
+post => http://localhost:4500/addtodos
+
+patch => http://localhost:4500/update/:id
+
+delete => http://localhost:4500/delete/:id
+
+
